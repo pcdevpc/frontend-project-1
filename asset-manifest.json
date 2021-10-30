@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/frontend-project-1/static/css/main.184da571.chunk.css",
+    "main.js": "/frontend-project-1/static/js/main.af00eefd.chunk.js",
+    "main.js.map": "/frontend-project-1/static/js/main.af00eefd.chunk.js.map",
+    "runtime-main.js": "/frontend-project-1/static/js/runtime-main.2f1c9144.js",
+    "runtime-main.js.map": "/frontend-project-1/static/js/runtime-main.2f1c9144.js.map",
+    "static/js/2.e53f59c2.chunk.js": "/frontend-project-1/static/js/2.e53f59c2.chunk.js",
+    "static/js/2.e53f59c2.chunk.js.map": "/frontend-project-1/static/js/2.e53f59c2.chunk.js.map",
+    "static/js/3.6727c832.chunk.js": "/frontend-project-1/static/js/3.6727c832.chunk.js",
+    "static/js/3.6727c832.chunk.js.map": "/frontend-project-1/static/js/3.6727c832.chunk.js.map",
+    "index.html": "/frontend-project-1/index.html",
+    "static/css/main.184da571.chunk.css.map": "/frontend-project-1/static/css/main.184da571.chunk.css.map",
+    "static/js/2.e53f59c2.chunk.js.LICENSE.txt": "/frontend-project-1/static/js/2.e53f59c2.chunk.js.LICENSE.txt",
+    "static/media/Work only with the best.357f9345.png": "/frontend-project-1/static/media/Work only with the best.357f9345.png",
+    "static/media/farming.1869c4c6.png": "/frontend-project-1/static/media/farming.1869c4c6.png",
+    "static/media/landing-page.a049e32f.jpg": "/frontend-project-1/static/media/landing-page.a049e32f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2f1c9144.js",
+    "static/js/2.e53f59c2.chunk.js",
+    "static/css/main.184da571.chunk.css",
+    "static/js/main.af00eefd.chunk.js"
+  ]
+}
