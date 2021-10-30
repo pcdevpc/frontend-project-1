@@ -58,7 +58,7 @@ const ViewMoreButton = styled(Button)`
   }
 `;
 
-const wait = (num) => new Promise((rs) => setTimeout(rs, num));
+// const wait = (num) => new Promise((rs) => setTimeout(rs, num));
 
 export function Services(props) {
   const [offeredServices, setServices] = useState([]);
@@ -69,11 +69,11 @@ export function Services(props) {
 
   const fetchServices = async () => {
     setLoading(true);
-    const response = await Axios.get("http://localhost:9000/services").catch(
-      (err) => {
-        console.log("Error: ", err);
-      }
-    );
+    const response = await Axios.get(
+      "https://my-json-server.typicode.com/pcdevpc/frontend-project-1/services"
+    ).catch((err) => {
+      console.log("Error: ", err);
+    });
 
     if (response) {
       setServices(response.data);
