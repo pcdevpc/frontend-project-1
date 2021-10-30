@@ -37,13 +37,13 @@ export function BrandLogo(props) {
   return (
     <BrandLogoContainer>
       {!hideLogo && (
-        <StyledLink to="/">
+        <StyledLink to="/frontend-project-1">
           <LogoImage size={logoSize}>
             <img src={LogoImg} alt="servycing logo" />
           </LogoImage>
         </StyledLink>
       )}
-      <StyledLink to="/">
+      <StyledLink to="/frontend-project-1">
         <LogoTitle size={textSize} color={color}>
           Servycing
         </LogoTitle>{" "}

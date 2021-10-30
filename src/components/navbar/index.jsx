@@ -53,15 +53,19 @@ export function Navbar(props) {
     <NavbarContainer useTransparent={useTransparent}>
       <BrandLogo />
       <AccessibilityContainer>
-        {!isMobile && <AnchorLink>Specialists Portal</AnchorLink>}
+        {!isMobile && (
+          <AnchorLink to="/frontend-project-1">Specialists Portal</AnchorLink>
+        )}
         {!isMobile && <Marginer direction="horizontal" margin={10} />}
         {!isMobile && <Seperator />}
         <Marginer direction="horizontal" margin={10} />
-        <Link to="/customer/access/signup">
+        <Link to="/frontend-project-1/customer/access/signup">
           <Button size={11}>Register</Button>
         </Link>
         <Marginer direction="horizontal" margin={8} />
-        <AnchorLink to="customer/access/signin">Login</AnchorLink>
+        <AnchorLink to="/frontend-project-1/customer/access/signin">
+          Login
+        </AnchorLink>
       </AccessibilityContainer>
     </NavbarContainer>
   );

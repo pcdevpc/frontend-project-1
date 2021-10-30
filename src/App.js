@@ -9,10 +9,10 @@ function App() {
     <div className="App">
       <Router>
         <Switch>
-          <Route path="/" exact component={HomePage} />
+          <Route exact path="/frontend-project-1" component={HomePage} />
           <Route
-            path="/customer/access/:action"
             exact
+            path="/frontend-project-1/customer/access/:action"
             component={CustomerAccessPage}
           />
         </Switch>
