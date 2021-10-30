@@ -11,7 +11,7 @@
     {
       "id": 2,
       "title": "I will paint your car from top to bottom",
-      "thumbnailUrl": "https://github.com/pcdevpc/frontend-project-1/tree/main/src/images/thumbnails/car.jpg",
+      "thumbnailUrl": "https://raw.githubusercontent.com/pcdevpc/frontend-project-1/main/src/images/thumbnails/car.jpg",
       "rate": 50,
       "rating": 3,
       "specialist": { "id": 1, "fullName": "Mark brone" }
@@ -19,7 +19,7 @@
     {
       "id": 3,
       "title": "I will Manage your team with strict plan",
-      "thumbnailUrl": "https://github.com/pcdevpc/frontend-project-1/tree/main/src/images/thumbnails/office.jpg",
+      "thumbnailUrl": "https://raw.githubusercontent.com/pcdevpc/frontend-project-1/main/src/images/thumbnails/office.jpg",
       "rate": 42,
       "rating": 5,
       "specialist": { "id": 1, "fullName": "Mark brone" }
@@ -27,7 +27,7 @@
     {
       "id": 4,
       "title": "I will Make your palace garden",
-      "thumbnailUrl": "https://github.com/pcdevpc/frontend-project-1/tree/main/src/images/thumbnails/grass.jpg",
+      "thumbnailUrl": "https://raw.githubusercontent.com/pcdevpc/frontend-project-1/main/src/images/thumbnails/grass.jpg",
       "rate": 50,
       "rating": 5,
       "specialist": { "id": 1, "fullName": "Mark brone" }
